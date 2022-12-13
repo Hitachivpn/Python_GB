@@ -1,0 +1,10 @@
+Ivanov 12000
+Petrov 21000
+Sidorov 14000
+Kuznetcov 29000
+Nikita 18000
+Kolhoznik 80000
+Mishins 12000
+Kalonna 36000
+Minust 22000
+Kollect 19000
